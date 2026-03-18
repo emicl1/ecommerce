@@ -1,0 +1,27 @@
+
+
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 6vh 1vw;
+}
+
+
+.links{
+    display: flex;
+    gap: 5vw;
+}
+
+img{
+    max-width: 9vw;
+    max-height: 9vh;
+}
+
+
+
+
+
+
+
